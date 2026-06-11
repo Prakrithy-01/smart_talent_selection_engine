@@ -1,0 +1,17 @@
+# Virtual Environment Folder
+venv/
+.venv/
+env/
+
+# Python Cache compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Hidden local environment variables
+.env
